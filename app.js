@@ -1,5 +1,4 @@
 
-
 document.querySelector('#search-cep').onclick = function () {
     let cep = document.getElementById('cep').value
     carregarCep(cep);
